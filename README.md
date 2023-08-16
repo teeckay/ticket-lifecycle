@@ -141,6 +141,9 @@ John Doe, resolves and closes his assigned ticket.
 
 </p>
 <br />
-
+<p>
+This is just a few examples on the day to day activites on Ticketing Systems. It however plays a vital role in IT service management.
+</p>
+<br />
 
 
